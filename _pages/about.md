@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website! My name is Chenyang Xu ([prounounciation](https://oluxiwen.github.io/pronouncing-chinese-names-guide/)). I am proud that I have a famous name twin at [Princeton](https://www.math.princeton.edu/people/chenyang-xu).
+Hi! Welcome to my website! My name is Chenyang Xu ([pronounciation](https://oluxiwen.github.io/pronouncing-chinese-names-guide/)). I am proud that I have a famous name twin at [Princeton](https://www.math.princeton.edu/people/chenyang-xu).
 
 I am an Assistant Teaching Professor at the [Department of Economics, University of Massachusetts Lowell](https://www.uml.edu/fahss/economics/). I received my Ph.D. in Economics from the [University of Wyoming](https://www.uwyo.edu/economics/index.html).  I am an environmental economist, with research interests in designing and evaluating politically feasible and less intrusive instruments that promote environmental protection. These instruments include both traditional pricing mechanisms and behavioral tools. Additionally, I am also interested in developing innovative financing instruments that encourage green activities. If you have similar interests, please feel free to reach out. Maybe we could collaborate.
 
